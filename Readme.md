@@ -16,8 +16,8 @@ Ce projet est une application en ligne de commande permettant de gérer une list
 
 1. Cloner le dépôt :
    ```bash
-   git clone <url-du-repo>
-   cd <nom-du-repo>
+   git clone https://github.com/gregmelo/gestion-contacts
+   cd gestion-contacts
    ```
 
     Configurer la base de données MySQL et renseigner le fichier .env à la racine :
