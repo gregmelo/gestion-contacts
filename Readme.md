@@ -31,7 +31,7 @@ Ce projet est une application en ligne de commande permettant de gérer une list
     ```bash
     php main.php
     ```
-Usage
+2. Usage
 
 Entrez les commandes dans le terminal, par exemple :
 
