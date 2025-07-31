@@ -69,6 +69,6 @@ Prérequis
 
 Auteur
 
-Véricel Grégory — [gregoryvericel6@gmail.com]
+Grégory Véricel - [LinkedIn](https://www.linkedin.com/in/gregory-vericel/) - gregoryvericel6@gmail.com
 
 N’hésite pas à contribuer ou à poser des questions !
