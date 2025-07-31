@@ -1,0 +1,35 @@
+```gitignore
+# Ignore les fichiers de configuration sensibles
+.env
+
+# Ignore les fichiers temporaires de l'éditeur
+*.log
+*.tmp
+*.cache
+
+# Ignore les fichiers de XAMPP ou Apache
+xampp/htdocs/exercice_projet_5/tmp/
+xampp/htdocs/exercice_projet_5/uploads/
+
+# Ignore les fichiers système (macOS, Windows)
+.DS_Store
+Thumbs.db
+
+# Ignore les fichiers générés par PHPStorm ou autres IDE
+.idea/
+*.iml
+
+# Ignore les fichiers de session PHP
+session.save_path/
+
+# Ignore les fichiers de cache PHP
+cache/
+
+# Ignore le dossier vendor si tu utilises Composer
+vendor/
+
+# Ignore les fichiers de logs
+*.log
+
+# Ignore les fichiers de sortie CLI
+*.out
