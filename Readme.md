@@ -27,7 +27,7 @@ Ce projet est une application en ligne de commande permettant de gérer une list
     DB_USER="votre identifiant de connexion à la BDD"    
     DB_PASS="votre MDP de connexion à la BDD"
     ```
-Lancer le script en ligne de commande :
+   Lancer le script en ligne de commande :
     ```bash
     php main.php
     ```
